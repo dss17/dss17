@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, sou Davi Santos! ⚡
 
-<!--
-**dss17/dss17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Gestão de TI e atuo como Auxiliar de Compras no setor de moda feminina. Minha experiência envolve acompanhamento de pedidos, fornecedores e prazos de entrega.
 
-Here are some ideas to get you started:
+Estou em transição para a área de dados, buscando unir minha experiência em compras ao conhecimento técnico para analisar informações e melhorar processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades e ferramentas em desenvolvimento 🛠️
+
+- **SQL:** consultas, relacionamentos entre tabelas e análise de dados.
+- **Power BI:** criação de relatórios e visualização de dados.
+- **Excel e Power Query:** organização, tratamento de dados e apoio ao controle de compras.
+- **GitHub:** aprendendo a documentar e compartilhar meu trabalho.
+
+## Meu objetivo 🧗‍♂️
+
+Construir uma carreira na área de dados com dedicação, disciplina e aprendizado contínuo. Estou colocando meus estudos em prática para desenvolver as habilidades necessárias para essa mudança profissional.
